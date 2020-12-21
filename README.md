@@ -1,6 +1,7 @@
 Web
 
 Introduction
+
 The code in this repository aims to show the front-end of the project (the designing of the search bar and adding a map) .
 
 There's 3 files in this repository :
