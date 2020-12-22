@@ -21,4 +21,5 @@ The code in this repository aims to show the front-end of the project (the desig
 
 •	JavaScript : how a search show a data .
 
-## [Live App Link](places-re-ranking.netlify.app)
+## App link
+to view the live application [**click here**](places-re-ranking.netlify.app)
